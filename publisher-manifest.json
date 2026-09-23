@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "9ab5c51e06d42932a6ac02d5",
+  "owner": "wunvevytv",
+  "repo": "page-0cc1be44c1a876bd9b441551",
+  "title": "火星互聯",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "0cc1be44c1a876bd9b441551",
+      "a": "火星互聯",
+      "b": "机场官网线路发布页",
+      "entity": "火星互聯",
+      "brand": "火星互聯",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "8f5b506c88c7731ddf072d2e10fe167e55e79a9d7e073d66b25041f2ece476aa",
+      "content": {
+        "primary_entity": "火星互聯",
+        "keyword1": "火星互聯",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，火星互聯围绕不同设备与使用强度提供清晰套餐划分。基础版每月 100GB 流量适合单人日常使用，旗舰版 300GB 与 IPLC 专线更适合游戏与流媒体，团队版 1000GB 满足多人共享。按年付基础版仅 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，订阅周期越长越省心。",
+          "AI_HERO_SUBTITLE": "稳定线路，按需选套餐",
+          "AI_HERO_INTRO": "火星互聯为需要海外网络加速的用户提供多档套餐选择，覆盖单人娱乐、游戏加速与团队协作场景。基础、旗舰、团队三个版本在流量、设备数量与节点类型上各有侧重，可按实际使用强度灵活订阅。",
+          "AI_VISUAL_TITLE": "火星互聯套餐页",
+          "AI_HIGHLIGHT_1": "极速流量按月可选",
+          "AI_HIGHLIGHT_2": "多设备同时在线",
+          "AI_HIGHLIGHT_3": "流媒体与游戏优化",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURES_INTRO": "按设备数量、流量消耗与线路偏好挑选合适版本，订阅前先确认使用场景。",
+          "AI_FEATURE_TITLE_1": "按设备规模选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，按常用设备数直接对应。",
+          "AI_FEATURE_TITLE_2": "流量按使用强度匹配",
+          "AI_FEATURE_TEXT_2": "每月 100GB、300GB 与 1000GB 三档，日常浏览选基础，游戏与高清流媒体选旗舰。",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_FEATURE_TEXT_3": "月付与年付两种周期，年付基础版仅 ¥150/年，长期使用更划算。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "不同系统适配不同客户端，按设备类型选择并按文档导入订阅。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月，按流量与设备需求对照选择。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "从选套餐到完成配置，按三步快速开始。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量需求，在基础、旗舰、团队版本中确定合适订阅。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认当前设备系统与客户端支持情况，准备对应的订阅配置环境。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照所选客户端的使用文档导入订阅信息，完成后即可连接使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "火星互聯支持哪些设备使用？",
+          "AI_FAQ_ANSWER_1": "基础版可 3 台设备同时在线，旗舰版 5 台，团队版 20 台。具体客户端按设备系统选择，Windows、macOS、iOS、Android 均有对应客户端可按文档配置。",
+          "AI_FAQ_QUESTION_2": "三个套餐的流量有什么区别？",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB。日常浏览和社交选基础版即可，经常观看高清流媒体或玩游戏建议旗舰版起。",
+          "AI_FAQ_QUESTION_3": "年付比月付能省多少？",
+          "AI_FAQ_ANSWER_3": "基础版月付 ¥15，按年付仅需 ¥150/年；旗舰版月付 ¥35，年付 ¥350/年；团队版月付 ¥85，年付 ¥850/年。年付相当于免去两个月费用。",
+          "AI_FAQ_QUESTION_4": "订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_4": "购买后在客户端内找到订阅或配置导入选项，粘贴订阅链接或按文档填入配置信息。不同客户端操作略有差异，请参考对应客户端的使用说明。",
+          "AI_FAQ_QUESTION_5": "玩游戏适合选哪个版本？",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线游戏加速优化与全节点原生流媒体解锁，适合对延迟和画质有要求的用户。团队版提供 VIP 专属高带宽节点，多人共享时更稳定。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更顺畅",
+          "AI_CLOSING_TEXT": "根据设备与流量需求选定版本，按文档完成订阅配置即可开始使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "afcvhlb.cn",
+    "host": "afcvhlb.cn"
+  },
+  "file_hashes": {
+    "index.html": "a340931a9ad91b094cf091120b67f93c87de96c385271ee8bf842327f7eaf82c",
+    "sitemap.xml": "6e588a2a303e30bce066241324b75f893e0917554aa501c4a720d82917f1e5de",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "96bc5e8ba3abdb11245b8d8ba8fa29b9b52136c28ef00ed52aa436b04d88cda7",
+    "robots.txt": "2f34ff15d6c890fbbfe30ec9b575b6c272a7b2921230878c67e37e695d7737ff",
+    "940d21ae320a83484c9ef8e3a5c9197d.txt": "9950f4132f7908bd4fc1d322d7845dadcdac1ff77e711127f9b25ff9a8876732"
+  },
+  "revision": "e68c7ce6335d6d9574754b8dacb4145103e14cbf339cbcddb31c2443aa86aeed"
+}
